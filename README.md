@@ -1,2 +1,2 @@
 # make-alpine
-A Dockerfile to use gnu-make.
+A Dockerfile to use GNU Make.
